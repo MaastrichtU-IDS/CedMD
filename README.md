@@ -42,7 +42,7 @@ Four experiments were conducted using the crowd with point of interest annotatio
 ### Analysis and Crowd agreement
 
 
-Run the MIA_AnnotationAnalysis.ipynb to check the performance of the experiments. The script discards low quality annotations using timestamps and number of tumor indicating annotations and performs crowd agreement with the set of quality annotations per image using DBSCAN algorithm. Worker-wise performance for each experiment is also analysed. The result of crowd agreement positions and expert annotated position are shown in Figure 4![Figure5](Figures/crowd_agreement.png) 
+Run the MIA_AnnotationAnalysis.ipynb to check the performance of the experiments. The script discards low quality annotations using timestamps and number of tumor indicating annotations and performs crowd agreement with the set of quality annotations per image using DBSCAN algorithm. Worker-wise performance for each experiment is also analysed. The result of crowd agreement positions and expert annotated position are shown in Figure 4
 <p align="center">
 <img src="Figures/crowd_agreement.png" />
  </p>
