@@ -7,7 +7,7 @@ Lung cancer is the leading cause of cancer deaths, claiming 2 million lives per 
 
 Therefore, we look at a crowdsourcing approach to annotate lung nodules in CT scan slices. Since this is a challenging tasks with the need for medical domain knowledge to accurately identify and annotate nodules, we conduct different crowdsouring experiments with different design hyperparameters to decide the optimal parameters to conduct this task successfully. Each experiment has 20 annotators detecting tumors in each subtask. Since, multiple workers are annotating tumors in each subtask, we have developed a crowd agreement methodology to generate points of interest where crowd agrees that a potential tumor exists.
 
-We have developed a end-to-end crowdsourcing pipeline for deep learning model to detect lung nodules accurately. For this project, we use the LUNA16 dataset. We use a model like DeepLung (Zhu W. 2018) to compare models trained with crowdsourced annotations vs expert annotations. The pipeline is shown in Figure 1 
+We have developed a end-to-end crowdsourcing pipeline for deep learning model to detect lung nodules accurately. For this project, we use the [LUNA16 dataset](https://luna16.grand-challenge.org/data/). We use a model like DeepLung (Zhu W. 2018) to compare models trained with crowdsourced annotations vs expert annotations. The pipeline is shown in Figure 1 
 
 <p align="center">
 <img src="Figures/architecture.jpg"  height="300"
