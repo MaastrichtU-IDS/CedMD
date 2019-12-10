@@ -39,7 +39,7 @@ The preprocessing is performed for the entire LUNA16 dataset here. For every tum
 
 ### Experiments
 
-Four experiments were conducted using the crowd with point of interest annotation to mark the nodule center. The presentation of each microtask in the experiment is shown in Figure 3
+Four experiments were conducted using the crowd with point of interest annotation to mark the nodule center on [Amazon mechanical turk](https://www.mturk.com/). The experiments were conducted on our [custom annotation web application](http://kitlekaynak.net/mia/medical_poi/main.php). The presentation of each microtask in the experiment is shown in Figure 3
 
 <p align="center">
 <img src="Figures/experiments.jpg"  height="300"
