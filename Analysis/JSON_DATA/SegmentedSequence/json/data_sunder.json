@@ -1,0 +1,38 @@
+[
+    {
+        "id": "5dd4586c6e67f",
+        "annotator": "sunder",
+        "url": "input\/T1.png",
+        "timestamp": "2019-11-19 21:02:36",
+        "POIs": "[{\"x\":295,\"y\":382}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574197271569",
+        "SubmitTime": "1574197326588"
+    },
+    {
+        "id": "5dd458894a0b2",
+        "annotator": "sunder",
+        "url": "input\/CROWD_TEST\\Negative_samples\\seg_op\\subset7\\1.3.6.1.4.1.14519.5.2.1.6279.6001.116097642684124305074876564522\\130\\.png",
+        "timestamp": "2019-11-19 21:03:05",
+        "POIs": "[]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574197355444",
+        "SubmitTime": "1574197355444"
+    },
+    {
+        "id": "5dd4589c5e854",
+        "annotator": "sunder",
+        "url": "input\/CROWD_TEST\\Positive_samples\\segmented\\segmented_subset1\\1.3.6.1.4.1.14519.5.2.1.6279.6001.183843376225716802567192412456\\108\\.png",
+        "timestamp": "2019-11-19 21:03:24",
+        "POIs": "[]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574197374533",
+        "SubmitTime": "1574197374533"
+    }
+]

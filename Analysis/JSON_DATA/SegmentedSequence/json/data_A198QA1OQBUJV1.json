@@ -1,0 +1,74 @@
+[
+    {
+        "id": "5dd4a910ac505",
+        "annotator": "A198QA1OQBUJV1",
+        "url": "input\/CROWD_TEST\\Negative_samples\\seg_op\\subset1\\1.3.6.1.4.1.14519.5.2.1.6279.6001.250397690690072950000431855143\\73\\.png",
+        "timestamp": "2019-11-20 02:46:40",
+        "POIs": "[]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574217999522",
+        "SubmitTime": "1574217999522"
+    },
+    {
+        "id": "5dd4a91f93b35",
+        "annotator": "A198QA1OQBUJV1",
+        "url": "input\/CROWD_TEST\\Positive_samples\\segmented\\segmented_subset8\\1.3.6.1.4.1.14519.5.2.1.6279.6001.397522780537301776672854630421\\120\\.png",
+        "timestamp": "2019-11-20 02:46:55",
+        "POIs": "[{\"x\":183,\"y\":555}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574218000982",
+        "SubmitTime": "1574218014709"
+    },
+    {
+        "id": "5dd4a92ba29b6",
+        "annotator": "A198QA1OQBUJV1",
+        "url": "input\/CROWD_TEST\\Positive_samples\\segmented\\segmented_subset8\\1.3.6.1.4.1.14519.5.2.1.6279.6001.206028343897359374907954580114\\84\\.png",
+        "timestamp": "2019-11-20 02:47:07",
+        "POIs": "[]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574218026770",
+        "SubmitTime": "1574218026770"
+    },
+    {
+        "id": "5dd4a950326c6",
+        "annotator": "A198QA1OQBUJV1",
+        "url": "input\/CROWD_TEST\\Negative_samples\\seg_op\\subset8\\1.3.6.1.4.1.14519.5.2.1.6279.6001.175318131822744218104175746898\\236\\.png",
+        "timestamp": "2019-11-20 02:47:44",
+        "POIs": "[]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574218062131",
+        "SubmitTime": "1574218062131"
+    },
+    {
+        "id": "5dd4a95989075",
+        "annotator": "A198QA1OQBUJV1",
+        "url": "input\/CROWD_TEST\\Positive_samples\\segmented\\segmented_subset2\\1.3.6.1.4.1.14519.5.2.1.6279.6001.225154811831720426832024114593\\71\\.png",
+        "timestamp": "2019-11-20 02:47:53",
+        "POIs": "[]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574218072647",
+        "SubmitTime": "1574218072647"
+    },
+    {
+        "id": "5dd4a96442d4a",
+        "annotator": "A198QA1OQBUJV1",
+        "url": "input\/CROWD_TEST\\Negative_samples\\seg_op\\subset6\\1.3.6.1.4.1.14519.5.2.1.6279.6001.252814707117018427472206147014\\128\\.png",
+        "timestamp": "2019-11-20 02:48:04",
+        "POIs": "[]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574218083336",
+        "SubmitTime": "1574218083336"
+    }
+]

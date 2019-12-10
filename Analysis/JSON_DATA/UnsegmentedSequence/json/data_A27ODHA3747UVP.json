@@ -1,0 +1,62 @@
+[
+    {
+        "id": "5dd339c63a757",
+        "annotator": "A27ODHA3747UVP",
+        "url": "input\/CROWD_TEST\\Negative_samples\\unseg_op\\subset4\\1.3.6.1.4.1.14519.5.2.1.6279.6001.780558315515979171413904604168\\262\\.png",
+        "timestamp": "2019-11-19 00:39:34",
+        "POIs": "[{\"x\":194,\"y\":355}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574123900029",
+        "SubmitTime": "1574123973264"
+    },
+    {
+        "id": "5dd339d04b581",
+        "annotator": "A27ODHA3747UVP",
+        "url": "input\/CROWD_TEST\\Negative_samples\\unseg_op\\subset7\\1.3.6.1.4.1.14519.5.2.1.6279.6001.280125803152924778388346920341\\26\\.png",
+        "timestamp": "2019-11-19 00:39:44",
+        "POIs": "[{\"x\":520,\"y\":290}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574123974276",
+        "SubmitTime": "1574123983047"
+    },
+    {
+        "id": "5dd339d578096",
+        "annotator": "A27ODHA3747UVP",
+        "url": "input\/CROWD_TEST\\Negative_samples\\unseg_op\\subset7\\1.3.6.1.4.1.14519.5.2.1.6279.6001.272348349298439120568330857680\\120\\.png",
+        "timestamp": "2019-11-19 00:39:49",
+        "POIs": "[{\"x\":568,\"y\":442}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574123984324",
+        "SubmitTime": "1574123988495"
+    },
+    {
+        "id": "5dd339dd34bcf",
+        "annotator": "A27ODHA3747UVP",
+        "url": "input\/CROWD_TEST\\Positive_samples\\unsegmented\\set7\\1.3.6.1.4.1.14519.5.2.1.6279.6001.592821488053137951302246128864\\136\\.png",
+        "timestamp": "2019-11-19 00:39:57",
+        "POIs": "[{\"x\":208,\"y\":631}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574123989581",
+        "SubmitTime": "1574123996239"
+    },
+    {
+        "id": "5dd339e353247",
+        "annotator": "A27ODHA3747UVP",
+        "url": "input\/CROWD_TEST\\Positive_samples\\unsegmented\\set4\\1.3.6.1.4.1.14519.5.2.1.6279.6001.141430002307216644912805017227\\89\\.png",
+        "timestamp": "2019-11-19 00:40:03",
+        "POIs": "[{\"x\":400,\"y\":507}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574123997158",
+        "SubmitTime": "1574124002078"
+    }
+]

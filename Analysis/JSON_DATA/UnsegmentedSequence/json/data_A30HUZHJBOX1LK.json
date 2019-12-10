@@ -1,0 +1,110 @@
+[
+    {
+        "id": "5dd29a54e2ccd",
+        "annotator": "A30HUZHJBOX1LK",
+        "url": "input\/CROWD_TEST\\Negative_samples\\unseg_op\\subset6\\1.3.6.1.4.1.14519.5.2.1.6279.6001.107109359065300889765026303943\\60\\.png",
+        "timestamp": "2019-11-18 13:19:16",
+        "POIs": "[{\"x\":193,\"y\":242}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574083137078",
+        "SubmitTime": "1574083156771"
+    },
+    {
+        "id": "5dd29b5da207a",
+        "annotator": "A30HUZHJBOX1LK",
+        "url": "input\/CROWD_TEST\\Negative_samples\\unseg_op\\subset0\\1.3.6.1.4.1.14519.5.2.1.6279.6001.657775098760536289051744981056\\51\\.png",
+        "timestamp": "2019-11-18 13:23:41",
+        "POIs": "[{\"x\":213,\"y\":352}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574083415094",
+        "SubmitTime": "1574083421517"
+    },
+    {
+        "id": "5dd29b935b0b3",
+        "annotator": "A30HUZHJBOX1LK",
+        "url": "input\/CROWD_TEST\\Negative_samples\\unseg_op\\subset7\\1.3.6.1.4.1.14519.5.2.1.6279.6001.226889213794065160713547677129\\64\\.png",
+        "timestamp": "2019-11-18 13:24:35",
+        "POIs": "[]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574083475243",
+        "SubmitTime": "1574083475243"
+    },
+    {
+        "id": "5dd29bbfa2ba5",
+        "annotator": "A30HUZHJBOX1LK",
+        "url": "input\/T3.png",
+        "timestamp": "2019-11-18 13:25:19",
+        "POIs": "[{\"x\":456,\"y\":384}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574083476003",
+        "SubmitTime": "1574083519534"
+    },
+    {
+        "id": "5dd29bd0048ad",
+        "annotator": "A30HUZHJBOX1LK",
+        "url": "input\/T4.png",
+        "timestamp": "2019-11-18 13:25:36",
+        "POIs": "[{\"x\":648,\"y\":474}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574083520212",
+        "SubmitTime": "1574083535901"
+    },
+    {
+        "id": "5dd29beb83144",
+        "annotator": "A30HUZHJBOX1LK",
+        "url": "input\/CROWD_TEST\\Positive_samples\\unsegmented\\set4\\1.3.6.1.4.1.14519.5.2.1.6279.6001.205993750485568250373835565680\\251\\.png",
+        "timestamp": "2019-11-18 13:26:03",
+        "POIs": "[]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574083563414",
+        "SubmitTime": "1574083563414"
+    },
+    {
+        "id": "5dd29c0dde38e",
+        "annotator": "A30HUZHJBOX1LK",
+        "url": "input\/CROWD_TEST\\Positive_samples\\unsegmented\\set1\\1.3.6.1.4.1.14519.5.2.1.6279.6001.168037818448885856452592057286\\303\\.png",
+        "timestamp": "2019-11-18 13:26:37",
+        "POIs": "[{\"x\":574,\"y\":420}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574083564125",
+        "SubmitTime": "1574083597787"
+    },
+    {
+        "id": "5dd29c33cc7dc",
+        "annotator": "A30HUZHJBOX1LK",
+        "url": "input\/CROWD_TEST\\Positive_samples\\unsegmented\\set4\\1.3.6.1.4.1.14519.5.2.1.6279.6001.141430002307216644912805017227\\89\\.png",
+        "timestamp": "2019-11-18 13:27:15",
+        "POIs": "[{\"x\":341,\"y\":408}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574083598527",
+        "SubmitTime": "1574083635722"
+    },
+    {
+        "id": "5dd29c440e464",
+        "annotator": "A30HUZHJBOX1LK",
+        "url": "input\/CROWD_TEST\\Positive_samples\\unsegmented\\set2\\1.3.6.1.4.1.14519.5.2.1.6279.6001.225154811831720426832024114593\\71\\.png",
+        "timestamp": "2019-11-18 13:27:32",
+        "POIs": "[{\"x\":549,\"y\":485}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574083636420",
+        "SubmitTime": "1574083651957"
+    }
+]

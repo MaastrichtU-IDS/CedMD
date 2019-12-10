@@ -1,0 +1,38 @@
+[
+    {
+        "id": "5dd6501c0f233",
+        "annotator": "sumi",
+        "url": "input\/CROWD_TEST\\Negative_samples\\seg_op\\subset1\\1.3.6.1.4.1.14519.5.2.1.6279.6001.250397690690072950000431855143\\73\\.png",
+        "timestamp": "2019-11-21 08:51:40",
+        "POIs": "[{\"x\":313,\"y\":413}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574374745868",
+        "SubmitTime": "1574374803891"
+    },
+    {
+        "id": "5dd6503f9537f",
+        "annotator": "sumi",
+        "url": "input\/CROWD_TEST\\Negative_samples\\seg_op\\subset4\\1.3.6.1.4.1.14519.5.2.1.6279.6001.780558315515979171413904604168\\262\\.png",
+        "timestamp": "2019-11-21 08:52:15",
+        "POIs": "[{\"x\":382,\"y\":386}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574374806078",
+        "SubmitTime": "1574374839732"
+    },
+    {
+        "id": "5dd6504064af4",
+        "annotator": "sumi",
+        "url": "input\/CROWD_TEST\\Negative_samples\\seg_op\\subset4\\1.3.6.1.4.1.14519.5.2.1.6279.6001.780558315515979171413904604168\\262\\.png",
+        "timestamp": "2019-11-21 08:52:16",
+        "POIs": "[{\"x\":382,\"y\":386}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574374806078",
+        "SubmitTime": "1574374840565"
+    }
+]

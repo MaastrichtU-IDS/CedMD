@@ -1,0 +1,50 @@
+[
+    {
+        "id": "5dd283f1b8920",
+        "annotator": "JAY",
+        "url": "input\/CROWD_TEST\\Negative_samples\\unseg_op\\subset2\\1.3.6.1.4.1.14519.5.2.1.6279.6001.121993590721161347818774929286\\102\\.png",
+        "timestamp": "2019-11-18 11:43:45",
+        "POIs": "[{\"x\":378,\"y\":370}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574077447242",
+        "SubmitTime": "1574077557853"
+    },
+    {
+        "id": "5dd284231f62b",
+        "annotator": "JAY",
+        "url": "input\/CROWD_TEST\\Negative_samples\\unseg_op\\subset5\\1.3.6.1.4.1.14519.5.2.1.6279.6001.238855414831158993232534884296\\205\\.png",
+        "timestamp": "2019-11-18 11:44:35",
+        "POIs": "[]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574077606264",
+        "SubmitTime": "1574077606264"
+    },
+    {
+        "id": "5dd2844d41263",
+        "annotator": "JAY",
+        "url": "input\/CROWD_TEST\\Positive_samples\\unsegmented\\set6\\1.3.6.1.4.1.14519.5.2.1.6279.6001.129007566048223160327836686225\\77\\.png",
+        "timestamp": "2019-11-18 11:45:17",
+        "POIs": "[{\"x\":488,\"y\":587}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574077608834",
+        "SubmitTime": "1574077648644"
+    },
+    {
+        "id": "5dd2847282233",
+        "annotator": "JAY",
+        "url": "input\/CROWD_TEST\\Positive_samples\\unsegmented\\set1\\1.3.6.1.4.1.14519.5.2.1.6279.6001.183843376225716802567192412456\\108\\.png",
+        "timestamp": "2019-11-18 11:45:54",
+        "POIs": "[{\"x\":295,\"y\":377}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574077650871",
+        "SubmitTime": "1574077685795"
+    }
+]

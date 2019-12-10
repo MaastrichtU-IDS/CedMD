@@ -1,0 +1,14 @@
+[
+    {
+        "id": "5dd4916466982",
+        "annotator": "ATP43ZVI1RP0C",
+        "url": "input\/CROWD_TEST\\Negative_samples\\seg_op\\subset1\\1.3.6.1.4.1.14519.5.2.1.6279.6001.250397690690072950000431855143\\73\\.png",
+        "timestamp": "2019-11-20 01:05:40",
+        "POIs": "[{\"x\":301,\"y\":500}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574211919690",
+        "SubmitTime": "1574211939406"
+    }
+]

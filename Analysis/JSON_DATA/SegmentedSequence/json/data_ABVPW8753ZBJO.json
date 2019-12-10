@@ -1,0 +1,74 @@
+[
+    {
+        "id": "5dd5bc0a63a8f",
+        "annotator": "ABVPW8753ZBJO",
+        "url": "input\/CROWD_TEST\\Positive_samples\\segmented\\segmented_subset5\\1.3.6.1.4.1.14519.5.2.1.6279.6001.504845428620607044098514803031\\88\\.png",
+        "timestamp": "2019-11-20 22:19:54",
+        "POIs": "[{\"x\":578,\"y\":486}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574288379573",
+        "SubmitTime": "1574288394746"
+    },
+    {
+        "id": "5dd5bc1275725",
+        "annotator": "ABVPW8753ZBJO",
+        "url": "input\/CROWD_TEST\\Positive_samples\\segmented\\segmented_subset7\\1.3.6.1.4.1.14519.5.2.1.6279.6001.592821488053137951302246128864\\136\\.png",
+        "timestamp": "2019-11-20 22:20:02",
+        "POIs": "[{\"x\":507,\"y\":512}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574288396698",
+        "SubmitTime": "1574288403090"
+    },
+    {
+        "id": "5dd5bc1cd668a",
+        "annotator": "ABVPW8753ZBJO",
+        "url": "input\/CROWD_TEST\\Positive_samples\\segmented\\segmented_subset3\\1.3.6.1.4.1.14519.5.2.1.6279.6001.148447286464082095534651426689\\89\\.png",
+        "timestamp": "2019-11-20 22:20:12",
+        "POIs": "[{\"x\":182,\"y\":329}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574288404487",
+        "SubmitTime": "1574288413506"
+    },
+    {
+        "id": "5dd5bc2a47944",
+        "annotator": "ABVPW8753ZBJO",
+        "url": "input\/CROWD_TEST\\Negative_samples\\seg_op\\subset9\\1.3.6.1.4.1.14519.5.2.1.6279.6001.193964947698259739624715468431\\348\\.png",
+        "timestamp": "2019-11-20 22:20:26",
+        "POIs": "[{\"x\":288,\"y\":392}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574288415188",
+        "SubmitTime": "1574288426635"
+    },
+    {
+        "id": "5dd5bc3b24f27",
+        "annotator": "ABVPW8753ZBJO",
+        "url": "input\/CROWD_TEST\\Negative_samples\\seg_op\\subset8\\1.3.6.1.4.1.14519.5.2.1.6279.6001.175318131822744218104175746898\\236\\.png",
+        "timestamp": "2019-11-20 22:20:43",
+        "POIs": "[{\"x\":188,\"y\":461}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574288428563",
+        "SubmitTime": "1574288443507"
+    },
+    {
+        "id": "5dd5bc740dcd9",
+        "annotator": "ABVPW8753ZBJO",
+        "url": "input\/CROWD_TEST\\Positive_samples\\segmented\\segmented_subset8\\1.3.6.1.4.1.14519.5.2.1.6279.6001.397522780537301776672854630421\\120\\.png",
+        "timestamp": "2019-11-20 22:21:40",
+        "POIs": "[{\"x\":241,\"y\":540}]",
+        "Polygons": "[]",
+        "FreeDots": "[]",
+        "Boxes": "[]",
+        "DisplayTime": "1574288496009",
+        "SubmitTime": "1574288500388"
+    }
+]
