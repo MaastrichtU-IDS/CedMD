@@ -9,3 +9,19 @@ We have developed a end-to-end crowdsourcing pipeline for deep learning model to
 The methodology for stage 1 is shown in Figure 2 ![Fig 2](C:\Users\P70065719\Pictures\Saved Pictures\pipe.png). 
 
 ### Sampling a subset for crowdsourcing experiments
+
+For sampling the dataset needed for the experiments, we study the nodule features which are annotated by radiologits in the LIDC-IDRI dataset to determine the most significant feature for sampling. In the sampling folder, run Nodule_characteristics.ipynb to understand the different physical characteristics of the nodules. From the characteristics, obtain the correlation heatmap by running the correlation.py script.
+
+ Since we want a balanced dataset for the experiments, we choose 20 nodule containing scans, by runnning Sample_positive_slices.ipynb in the Positive_sample_creation folder. Similarly, negative samples (without tumors) are selected by running Negative_samples.ipynb in the Negative_sample_creation folder.
+
+To retrive the data related to the chosen scans, run retrieve_sample_images.py.
+
+
+###Preprocessing
+
+The preprocessing is performed for the entire LUNA16 dataset here. For every tumor center, 5 slices around the tumor are retrieved. To obtain the unsegmented slices, run Unsegmentedscans-seq.ipynb. To obtain the segmented slices, run segmentation-tumorwise.ipynb.
+
+###Analysis and Crowd agreement
+
+
+Run the MIA_AnnotationAnalysis.ipynb to check the performance of the experiments. The script discards low quality annotations using timestamps and number of tumor indicating annotations and performs crowd agreement with the set of quality annotations per image using DBSCAN algorithm. Worker-wise performance for each experiment is also analysed.
