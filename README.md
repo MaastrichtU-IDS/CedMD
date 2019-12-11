@@ -35,7 +35,7 @@ To retrive the data related to the chosen scans, run retrieve_sample_images.py.
 
 ### Preprocessing
 
-The preprocessing is performed for the entire LUNA16 dataset here. For every tumor center, 5 slices around the tumor are retrieved. To obtain the unsegmented slices, run Unsegmentedscans-seq.ipynb. To obtain the segmented slices, run segmentation-tumorwise.ipynb.
+The preprocessing is performed for the entire LUNA16 dataset here. For every tumor center, 5 slices around the tumor are retrieved. To obtain the unsegmented slices, run [Unsegmentedscans-seq.ipynb](preprocessing/Unsegmentedscans-seq.ipynb). To obtain the segmented slices, run [segmentation-tumorwise.ipynb](preprocessing/segmentation-tumorwise.ipynb).
 
 ### Experiments
 
@@ -51,7 +51,7 @@ Four experiments were conducted using the crowd with point of interest annotatio
 ### Analysis and Crowd agreement
 
 
-Run the MIA_AnnotationAnalysis.ipynb to check the performance of the experiments. The script discards low quality annotations using timestamps and number of tumor indicating annotations and performs crowd agreement with the set of quality annotations per image using DBSCAN algorithm. Worker-wise performance for each experiment is also analysed. The result of crowd agreement positions and expert annotated position are shown in Figure 4.
+Run the [MIA_AnnotationAnalysis.ipynb](Analysis/MIA_AnnotationAnalysis.ipynb) to check the performance of the experiments. The script discards low quality annotations using timestamps and number of tumor indicating annotations and performs crowd agreement with the set of quality annotations per image using [DBSCAN](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf) algorithm. Worker-wise performance for each experiment is also analysed. The result of crowd agreement positions and expert annotated position are shown in Figure 4.
 <p align="center">
 <img src="Figures/crowd_agreement.png"
     height="300"
