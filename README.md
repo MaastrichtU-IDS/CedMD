@@ -26,7 +26,7 @@ The methodology for stage 1 is shown in Figure 2
 
 ### Sampling a subset for crowdsourcing experiments
 
-For sampling the dataset needed for the experiments, we study the nodule features which are annotated by radiologits in the LIDC-IDRI dataset to determine the most significant feature for sampling. In the sampling folder, run [Nodule_characteristics.ipynb](sampling/Nodule_characteristics.ipynb) to understand the different physical characteristics of the nodules. From the characteristics, obtain the correlation heatmap by running the [correlation.py](sampling/correlation.py) script.
+For sampling the dataset needed for the experiments, we study the nodule features which are annotated by radiologits in the [LIDC-IDRI](https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI) dataset to determine the most significant feature for sampling. In the sampling folder, run [Nodule_characteristics.ipynb](sampling/Nodule_characteristics.ipynb) to understand the different physical characteristics of the nodules. From the characteristics, obtain the correlation heatmap by running the [correlation.py](sampling/correlation.py) script.
 
  Since we want a balanced dataset for the experiments, we choose 20 nodule containing scans, by runnning [Sample_positive_slices.ipynb](sampling/Positive_sample_creation/Sample_positive_slices.ipynb) in the [Positive_sample_creation folder](sampling/Positive_sample_creation). Similarly, negative samples (without tumors) are selected by running [Negative_samples.ipynb](sampling/Negative_sample_creation/Negative_samples.ipynb) in the [Negative_sample_creation](sampling/Negative_sample_creation) folder.
 
